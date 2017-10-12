@@ -7,7 +7,11 @@ Démonstration du duck typing en TypeScript
 $ npm install -g typescript
 ```
 
-> tsc student.ts
+> transpiler le fichier ts
+
+```sh
+tsc student.ts
+```
 
 > installation de http-server en global
 

@@ -25,4 +25,8 @@ $ npm install -g http-server
 http-server
 ```
 
-> ouvrir le navigateur => http://localhost:PORT
+> ouvrir le navigateur
+
+```sh
+http://localhost:PORT
+```
